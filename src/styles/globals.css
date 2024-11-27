@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --primary-100: 139, 95, 191;  /* #8B5FBF */
+    --primary-200: 97, 57, 143;   /* #61398F */
+    --primary-300: 255, 255, 255; /* #FFFFFF */
+    --accent-100: 214, 198, 225;  /* #D6C6E1 */
+    --accent-200: 154, 115, 181;  /* #9A73B5 */
+    --text-100: 74, 74, 74;       /* #4A4A4A */
+    --text-200: 135, 135, 135;    /* #878787 */
+    --bg-100: 245, 243, 247;      /* #F5F3F7 */
+    --bg-200: 233, 228, 237;      /* #E9E4ED */
+    --bg-300: 255, 255, 255;      /* #FFFFFF */
+  }
+}
+
+/* 暗色主题（可选） */
+@layer base {
+  .dark {
+    --background: 222.2 84% 4.9%;
+    --foreground: 210 40% 98%;
+    --muted: 217.2 32.6% 17.5%;
+    --muted-foreground: 215 20.2% 65.1%;
+    --accent: 217.2 32.6% 17.5%;
+    --accent-foreground: 210 40% 98%;
+    --border: 217.2 32.6% 17.5%;
+  }
+} 

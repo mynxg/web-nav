@@ -1,0 +1,124 @@
+{
+  "actions": [
+    {
+      "icon": "Coffee",
+      "title": "中午吃啥",
+      "link": "https://github.com",
+      "desc": "分享技术、bug解决过程、处理技巧等",
+      "type": ["生活方式"]
+    },
+    {
+      "icon": "Bus",
+      "title": "查询附近公交",
+      "link": "https://github.com",
+      "desc": "分享技术、bug解决过程、处理技巧等",
+      "type": ["生活方式"]
+    },
+    {
+      "icon": "Coffee",
+      "title": "记录咖啡因摄入量",
+      "link": "https://github.com",
+      "desc": "分享技术、bug解决过程、处理技巧等",
+      "type": ["生活方式"]
+    },
+    {
+      "icon": "Cloud",
+      "title": "语音播报天气",
+      "link": "https://github.com",
+      "desc": "分享技术、bug解决过程、处理技巧等",
+      "type": ["生活方式"]
+    },
+    {
+      "icon": "QrCode",
+      "title": "打开支付宝付款码",
+      "link": "https://github.com",
+      "desc": "分享技术、bug解决过程、处理技巧等",
+      "type": ["支付方式"]
+    },
+    {
+      "icon": "QrCode",
+      "title": "打开美团付款码",
+      "link": "https://github.com",
+      "desc": "分享技术、bug解决过程、处理技巧等",
+      "type": ["支付方式"]
+    },
+    {
+      "icon": "Navigation",
+      "title": "高德地图一键导航",
+      "link": "https://github.com",
+      "desc": "分享技术、bug解决过程、处理技巧等",
+      "type": ["地图导航"]
+    },
+    {
+      "icon": "Music",
+      "title": "用 Shazam 识别歌曲并存储",
+      "link": "https://github.com",
+      "desc": "分享技术、bug解决过程、处理技巧等",
+      "type": ["音乐"]
+    },
+    {
+      "icon": "Music",
+      "title": "用 Shazam 识别歌曲并存储",
+      "link": "https://github.com",
+      "desc": "分享技术、bug解决过程、处理技巧等",
+      "type": ["音乐"]
+    },
+    {
+      "icon": "Music",
+      "title": "用 Shazam 识别歌曲并存储",
+      "link": "https://github.com",
+      "desc": "分享技术、bug解决过程、处理技巧等",
+      "type": ["音乐"]
+    },
+    {
+      "icon": "Music",
+      "title": "用 Shazam 识别歌曲并存储",
+      "link": "https://github.com",
+      "desc": "分享技术、bug解决过程、处理技巧等",
+      "type": ["音乐"]
+    },
+    {
+      "icon": "Music",
+      "title": "用 Shazam 识别歌曲并存储",
+      "link": "https://github.com",
+      "desc": "分享技术、bug解决过程、处理技巧等",
+      "type": ["音乐"]
+    },
+    {
+      "icon": "Music",
+      "title": "用 Shazam 识别歌曲并存储",
+      "link": "https://github.com",
+      "desc": "分享技术、bug解决过程、处理技巧等",
+      "type": ["音乐"]
+    },
+    {
+      "icon": "Music",
+      "title": "用 Shazam 识别歌曲并存储",
+      "link": "https://github.com",
+      "desc": "分享技术、bug解决过程、处理技巧等",
+      "type": ["音乐"]
+    },
+    {
+      "icon": "Music",
+      "title": "用 Shazam 识别歌曲并存储",
+      "link": "https://github.com",
+      "desc": "分享技术、bug解决过程、处理技巧等",
+      "type": ["音乐"]
+    },
+    {
+      "icon": "Music",
+      "title": "用 Shazam 识别歌曲并存储",
+      "link": "https://github.com",
+      "desc": "分享技术、bug解决过程、处理技巧等",
+      "type": ["音乐"]
+    },
+    {
+      "icon": "Music",
+      "title": "用 Shazam 识别歌曲并存储",
+      "link": "https://github.com",
+      "desc": "分享技术、bug解决过程、处理技巧等",
+      "type": ["音乐"]
+    }
+  ]
+}
+
