@@ -1,6 +1,5 @@
 # 链接导航
 
-[//]: # ([![]&#40;https://img.shields.io/github/license/mynxg/web-nav?color=4D7A97&logo=apache&#41;]&#40;https://github.com/me-shaon/GLWTPL/blob/master/LICENSE&#41;  )
 [![](https://img.shields.io/github/stars/mynxg/web-nav)](https://github.com/mynxg/web-nav/stargazers)
 [![](https://img.shields.io/github/issues/mynxg/web-nav)](https://github.com/mynxg/web-nav/issues)
 [![](https://img.shields.io/github/issues-closed/mynxg/web-nav)](https://github.com/mynxg/web-nav/issues?q=is%3Aissue+is%3Aclosed)
