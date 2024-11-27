@@ -123,9 +123,10 @@ export default function Dashboard() {
         className={cn(
           "fixed top-4 left-4 z-50 rounded-md p-1.5 bg-white/80 backdrop-blur-sm md:hidden",
           "hover:bg-accent hover:text-accent-foreground",
-          "transition-all duration-100 ease-in-out"
+          "transition-all duration-100 ease-in-out",
+          isMobileMenuOpen ? "opacity-0" : "opacity-100"
         )}
-        onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
+        onClick={() => setIsMobileMenuOpen(true)}
       >
         <Menu className="h-5 w-5" />
       </button>
@@ -133,16 +134,11 @@ export default function Dashboard() {
       {/* 左侧导航栏 */}
       <div 
         className={cn(
-          "fixed left-0 top-0 w-[150px] h-screen bg-white shadow-lg z-40 transition-transform duration-100",
+          "fixed left-0 top-0 w-[150px] h-screen bg-white shadow-lg z-40 transition-transform duration-200 ease-in-out",
           "md:translate-x-0",
           "pt-16 md:pt-0",
           isMobileMenuOpen ? "translate-x-0" : "-translate-x-full"
         )}
-        onMouseLeave={() => {
-          if (window.innerWidth < 768) { // md breakpoint
-            setIsMobileMenuOpen(false);
-          }
-        }}
       >
         <Sidebar 
           categories={categories}
